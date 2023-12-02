@@ -24,4 +24,4 @@ function dup(arr) {
     });
 }
 
-dup(["abracadabra","allottee","assessee"]);
+console.log('solution: ', dup(["abracadabra","allottee","assessee"]));
