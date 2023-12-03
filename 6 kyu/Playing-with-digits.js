@@ -40,4 +40,4 @@ function digPow(n, p){
     }
 }
 let result = digPow(46288, 3);
-console.log('solution: ',result);
+console.log('solution:  ',result);
