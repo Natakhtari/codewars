@@ -35,4 +35,4 @@ function inArray(a1, a2) {
 let a1 = ["arp", "live", "strong"];
 let a2 = ["lively", "alive", "harp", "sharp", "armstrong"];
 let result1 = inArray(a1, a2);
-console.log('solution:  ', result1);
+console.log('solution:   ', result1);
