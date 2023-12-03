@@ -20,4 +20,4 @@ function XO(str) {
     return countX === countO;
 }
 
-console.log('solution: ', XO('ooxXm'));
+console.log('solution:  ', XO('ooxXm'));
