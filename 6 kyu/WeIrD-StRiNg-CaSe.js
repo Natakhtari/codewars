@@ -28,7 +28,7 @@ function toWeirdCase(string) {
     return result;
 }
 
-console.log('solution:  ', toWeirdCase('This is a Test sentence'));
+console.log('solution: ', toWeirdCase('This is a Test sentence'));
 
 
 
