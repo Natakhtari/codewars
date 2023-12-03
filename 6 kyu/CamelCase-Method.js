@@ -16,7 +16,7 @@ function camelCase(str) {
     } )
     return result1.join('');
 }
-console.log('solution:', camelCase('say hello'));
+console.log('solution: ', camelCase('say hello'));
 
 //SOLUTION AS METHOD
 
