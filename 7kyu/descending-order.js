@@ -16,4 +16,4 @@ function descendingOrder(n){
     return parseInt(parcedInt.join(''));
 }
 
-console.log('solution: ', descendingOrder(123456789));
+console.log('solution:  ', descendingOrder(123456789));
