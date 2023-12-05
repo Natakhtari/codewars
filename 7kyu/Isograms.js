@@ -24,4 +24,4 @@ function isIsogram(str){
     }
     return true;
 }
-console.log('solution: ', isIsogram('Dermatoglyphics'));
+console.log('solution:  ', isIsogram('Dermatoglyphics'));
