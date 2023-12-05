@@ -32,6 +32,6 @@ String.prototype.camelCase = function () {
     return result1.join('');
 };
 
-console.log('camel case word'.camelCase());
+console.log("Solution: ",'camel case word'.camelCase());
 
 
