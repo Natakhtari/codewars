@@ -12,6 +12,6 @@ function domainName(url){
     let sourceStr = url.replace('http://' , '').replace('www.', '').replace('http://', '').split(/[/?#]/)[0];
     return sourceStr.split('.')[0];
 }
-console.log('solution: ', domainName("http://youtube.com"));
-console.log('solution: ', domainName("www.xakep.ru"));
-console.log('solution: ', domainName("http://google.co.jp"));
+console.log('solution:  ', domainName("http://youtube.com"));
+console.log('solution:  ', domainName("www.xakep.ru"));
+console.log('solution:  ', domainName("http://google.co.jp"));
