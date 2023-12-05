@@ -20,4 +20,4 @@ function hex2Rgb(hex) {
     return {r , g , b};
 }
 
-console.log('solution:  ',hex2Rgb("#FF9933"));
+console.log('solution: ',hex2Rgb("#FF9933"));
