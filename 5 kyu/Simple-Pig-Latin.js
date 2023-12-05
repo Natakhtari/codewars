@@ -23,4 +23,4 @@ function pigIt(str) {
 
 }
 
-console.log(pigIt('Pig latin is cool'));
+console.log("Solution: ",pigIt('Pig latin is cool'));
