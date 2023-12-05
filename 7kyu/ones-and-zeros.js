@@ -25,5 +25,5 @@ function binaryArrayToNumber(binaryArray) {
 
 const binaryArray = [0, 0, 0, 1];
 const result = binaryArrayToNumber(binaryArray);
-console.log(result);
+console.log("solution: ",result);
 
